@@ -1,5 +1,5 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: Mój oficjalny blog (nieoficjalnych nie ma)
+email: m.szumigalski@op.pl
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,7 +9,7 @@ baseurl: "/Mikomemorator" # the subpath of your site, e.g. /blog
 url: "https://mikolajszumigalski.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Mikolaj Szumigalski # add your name
+author: Mikołaj Szumigalski # add your name
 author-pic: adam-face.jpg
 about-author: Jestem Mikołaj i testuję sobie nowe narzędzia do pisania bloga
 
