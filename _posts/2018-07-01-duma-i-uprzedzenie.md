@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2017-08-25 13:32:20 +0300'
 description: Recenzja filmu "Duma i uprzedzenie"
