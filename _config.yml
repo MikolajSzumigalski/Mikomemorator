@@ -10,25 +10,25 @@ url: "https://mikolajszumigalski.github.io" # the base hostname & protocol for y
 
 # Author settings
 author: Mikołaj Szumigalski # add your name
-author-pic: adam-face.jpg
-about-author: Jestem Mikołaj i testuję sobie nowe narzędzia do pisania bloga
+author-pic: szumi.jpg
+about-author: Cześć, jestem Mikołaj i znajdziecie tutaj wiele moich rozważań na tematy związane z wiarą, muzyką, informatyką i wiele innych
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
+email: m.szumigalski@op.pl
+#phone: # Add your Phone number
+website: mikolajszumigalski@github.io
+#linkedin: # Add your Linkedin handle
+github: MikolajSzumigalski # Add your Github handle
 twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+facebook: https://www.facebook.com/szumigalski1
+#instagram: # Add your Instagram handle
+#pinterest: # Add your Pinterest handle
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
+#mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: mikoajszumigalski 
 
 # Tracker
 analytics: # Google Analytics
