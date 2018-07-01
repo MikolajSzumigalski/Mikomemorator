@@ -35,7 +35,7 @@ analytics: # Google Analytics
 
 # Paginate
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /Mikomemorator/page:num/
 
 # Build settings
 markdown: kramdown
