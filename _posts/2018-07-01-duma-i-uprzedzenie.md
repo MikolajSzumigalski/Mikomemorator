@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2018-07-1 19:19'
 description: Recenzja filmu "Duma i uprzedzenie"
-img: post-1.jpg
+img: dumaiuprzedzenie.JPG
 tags:
   - film
   - recenzja
