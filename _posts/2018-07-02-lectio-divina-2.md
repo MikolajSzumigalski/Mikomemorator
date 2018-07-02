@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2018-07-2 18:00'
 description: 'Lectio Divina Mt 8, 18-22'
@@ -11,7 +11,7 @@ tags:
 author: Mikołaj Szumigalski
 ---
 # (Mk 5,21-43)
-
+ 
 *Gdy Jezus zobaczył tłum dokoła siebie, kazał odpłynąć na drugą stronę. A przystąpił pewien uczony w Piśmie i rzekł do Niego: "Nauczycielu, pójdę za Tobą, dokądkolwiek się udasz". Jezus mu odpowiedział: "Lisy mają nory, a ptaki podniebne – gniazda, lecz Syn Człowieczy nie ma miejsca, gdzie by głowę mógł położyć". Ktoś inny spośród uczniów rzekł do Niego: "Panie, pozwól mi najpierw pójść i pogrzebać mojego ojca". Lecz Jezus mu odpowiedział: "Pójdź za Mną, a zostaw umarłym grzebanie ich umarłych!"*
 
 ## Analiza Ewangelii 
