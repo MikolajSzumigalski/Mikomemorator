@@ -10,7 +10,7 @@ tags:
   - kurczakwciescie
 author: Mikołaj Szumigalski
 ---
-Przepis podpierniczony z tej strony [LINK](https://www.youtube.com/watch?v=IdxlNAReT7o&t) 
+Przepis podpierniczony z tej strony [LINK](https://www.youtube.com/watch?v=IdxlNAReT7o&t=149s) 
 
 ## Co potrzebujemy
 
@@ -22,7 +22,7 @@ Przepis podpierniczony z tej strony [LINK](https://www.youtube.com/watch?v=IdxlN
 * 1/4 kubka skrobii kukurydzianej (lub mąki zwykłej)
 * kubek mąki pszennej
 * 3 łyżki oleju
-* proszek do piczenia (łyżka)
+* proszek do pieczenia (łyżka)
 
 ## Przygotowanie
 
