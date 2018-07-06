@@ -10,6 +10,8 @@ tags:
   - kurczakwciescie
 author: Mikołaj Szumigalski
 ---
+Przepis poDpierniczony z tej strony [LINK](https://www.youtube.com/watch?v=IdxlNAReT7o&t=149s) 
+
 ## Co potrzebujemy
 
 * pierś z kurczaka (ok 500g)
@@ -45,4 +47,3 @@ author: Mikołaj Szumigalski
 2. Smażymy kurczaka w oleju
 
 ## I gitara można żryć XD
-
