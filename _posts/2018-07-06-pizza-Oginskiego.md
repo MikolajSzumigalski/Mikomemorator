@@ -23,6 +23,6 @@ Przepis podpierniczony z tej strony [LINK](https://www.youtube.com/watch?v=c7Zw7
 
 ## Przygotowanie
 
-1. Zalewamy drożdże wodą i cukrem, robimy rozczyn i zostawiamy na jakiś czas. Potem dodajemy resztę skłądników i odstawiamy do wyrośnięcia
+1. Zalewamy drożdże wodą i cukrem, robimy rozczyn i zostawiamy na jakiś czas. Potem dodajemy resztę składników i odstawiamy do wyrośnięcia
 2. Dodajemy składniki i sos
 3. Wstawiamy do piekarnika na **10 min 220stC**
