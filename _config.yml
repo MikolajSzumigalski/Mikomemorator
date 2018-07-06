@@ -31,7 +31,7 @@ facebook: https://www.facebook.com/szumigalski1
 discus_identifier: mikolajszumigalski
 
 # Tracker
-analytics: # Google Analytics
+analytics: Google Analytics
 
 # Paginate
 paginate: 6
