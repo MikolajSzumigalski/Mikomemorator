@@ -10,7 +10,7 @@ tags:
   - kurczakwciescie
 author: Mikołaj Szumigalski
 ---
-Przepis poDpierniczony z tej strony [LINK](https://www.youtube.com/watch?v=IdxlNAReT7o&t=149s) 
+Przepis podpierniczony z tej strony [LINK](https://www.youtube.com/watch?v=IdxlNAReT7o&t=149s) 
 
 ## Co potrzebujemy
 
