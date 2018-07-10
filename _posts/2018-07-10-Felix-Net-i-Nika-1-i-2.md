@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2018-07-10 22:30'
 description: 'Felix, Net i Nika części 1 i 2 - recenzja'
-img: pielgrzymka.JPG
+img: fnin.jpg
 tags:
   - książki
   - SciFi
