@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2018-07-6 12:15'
+date: '2018-07-7 12:15'
 description: Dlaczego warto pójść na pielgrzymkę?
 img: pielgrzymka.JPG
 tags:
