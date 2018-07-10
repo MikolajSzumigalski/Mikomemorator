@@ -30,4 +30,4 @@ Obie książki będę trochę porównywał ze sobą nawzajem i mimo wszystko cz�
 
 **Felix, Net i Nika oraz Teoretycznie Możliwa Katastrofa**
 
-Zdecydowanie lepsza fabuła i bardzo podobały mi się wizje futurystyczne. Nie wiem jak będzie z następnymi częsciami, ale uczciwie daję **8 / 10** ( w skali "dziecięcej" **9 / 10**)
+Zdecydowanie lepsza fabuła i bardzo podobały mi się wizje futurystyczne. Nie wiem jak będzie z następnymi częściami, ale uczciwie daję **8 / 10** ( w skali "dziecięcej" **9 / 10**)
