@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2018-07-11 18:40'
 description: 'Mężczyzna, który pomylił żonę z kapeluszem - recenzja'
-img: mezczyznapomylil.png
+img: mezczyznapomylil.jpg
 tags:
   - ksiązki
   - psychologia
