@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2018-07-23 18:40'
 description: 'Lectio Divina J 15, 1-8'
@@ -16,22 +16,6 @@ author: Mikołaj Szumigalski
 
 ## Analiza Ewangelii 
 
+Jest to zaległe Lectio więc jedynie skupię się na samej analizie, żeby z czystym sumieniem chociaż to opublkować, a pełne Lectio pojawi się za chwilę.
 
-
-## Wnioski w pigułce
-
-
-
-## Modlitwa
-
-## Przepraszam
-
-
-
-## Dziękuję
-
-
-
-## Proszę
-
-
+Jezus w Ewangelii pokazuje nam, że nasze życie musi mieć jakiś cel, jakąś podporę, czy punkt zaczepienia. Inaczej jest to pusta egzystemncja. Jako dobry nauczyciel chce abyśmy mu zaufali, bo On jest w stanie pokazać nam jak żyć aby dawać dobre owoce i być szczęśliwym. Ciekawa jest też obietnica na końcu "Jeżeli we Mnie trwać będziecie, a słowa moje w was, poproście, o cokolwiek chcecie, a to wam się spełni". Cóż więcej można chcieć? 
