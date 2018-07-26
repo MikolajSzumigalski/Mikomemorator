@@ -9,6 +9,7 @@ tags:
   - lectio
   - Mt
 author: Mikołaj Szumigalski
+pulished: true
 ---
 # (Mt 13,16-17)
  
