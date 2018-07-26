@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2018-07-26 23:00'
 description: 'Lectio Divina Mt Mt 13,16-17'
