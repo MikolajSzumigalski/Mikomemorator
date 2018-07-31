@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2018-07-31 7:00'
 description: A. Christie Zbrodnia na festynie
