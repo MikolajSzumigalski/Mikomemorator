@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2018-08-03 22:30'
 description: Mistrz i Małgorzata - recenzja
-img: masterandmargarita.jpg
+img: masterandmargarita.png
 tags:
   - książki
   - lektury
